@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e50a7d751b284cf49a99da535a22797c" Name="Diagram1">
+        <EntityTypeShape EntityType="DbVTYSProjeModel.TBLKATEGORI" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbVTYSProjeModel.TBLMUSTERI" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbVTYSProjeModel.TBLSATIS" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbVTYSProjeModel.TBLURUNLER" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DbVTYSProjeModel.FK_TBLURUNLER_TBLKATEGORI" ManuallyRouted="false" />
+        <AssociationConnector Association="DbVTYSProjeModel.FK_TBLSATIS_TBLMUSTERI" ManuallyRouted="false" />
+        <AssociationConnector Association="DbVTYSProjeModel.FK_TBLSATIS_TBLURUNLER" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DbVTYSProjeModel.TBLADMIN" Width="1.5" PointX="6" PointY="4.25" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

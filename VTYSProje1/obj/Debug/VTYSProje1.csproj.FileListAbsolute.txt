@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\VTYSProje1.exe.config
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\VTYSProje1.exe
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\VTYSProje1.pdb
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.exe
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.pdb
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.frmanaform.resources
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.frmurun.resources
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.frmistatistik.resources
+C:\Users\asus\Desktop\udemy kurs\VTYSProje1\VTYSProje1\obj\Debug\VTYSProje1.frmgiris.resources
